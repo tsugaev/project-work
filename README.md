@@ -59,4 +59,4 @@
 
 - Далее нужно перелключиться на свою рабочую ветку и стянуть изменения с основной - `git rebase main`
 
-- [Дополниельно по работе с git](https://github.com/intocode/group-projects-workflow/blob/main/resources/git-workflow.md)
+- [Дополниельно о работе с git](https://github.com/intocode/group-projects-workflow/blob/main/resources/git-workflow.md)
